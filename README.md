@@ -117,7 +117,6 @@ My focus is on continuous improvement, adaptability, and becoming a well-rounded
 - 🐍 Python development
 - ⚙️ C++ programming
 - 🗄️ SQL databases
-- 🎮 Unity game development
 - 🤖 Artificial Intelligence concepts
 - 🏗️ Software engineering practices
 
@@ -140,9 +139,9 @@ Gaming helps inspire my interest in interactive technology and game development.
 ## 🤖 Technology Interests
 
 - Artificial Intelligence
+- Software Engineering
 - Game Development
 - PC Building
-- Software Engineering
 - Emerging Technologies
 - Creating useful applications
 
@@ -155,8 +154,7 @@ My GitHub journey is growing. Future projects will include:
 🎓 School Projects  
 💻 Software Applications  
 🌐 Web Development Projects  
-🎮 Indie Game Projects  
-🤖 AI Experiments  
+🎮 Indie Game Projects   
 
 ---
 
@@ -208,7 +206,7 @@ My GitHub journey is growing. Future projects will include:
 - 📚 I'm always learning something new.
 - 💻 I enjoy exploring technology and building projects.
 - 🖥️ I love PC building and hardware.
-- 🏍️ I like working on motorcyles and cars.
+- 🏍️ I like working on motorcycles and cars.
 
 ---
 

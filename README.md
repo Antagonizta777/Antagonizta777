@@ -183,7 +183,11 @@ My GitHub journey is growing. Future projects will include:
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Antagonizta777/Antagonizta777/output/github-contribution-grid-snake.svg" />
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Antagonizta777/Antagonizta777/gh-pages/github-contribution-grid-snake.svg" />
+
+</div>
 
 ---
 

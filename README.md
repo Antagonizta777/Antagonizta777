@@ -50,7 +50,8 @@ Areas I am interested in:
 - 🌐 Web Development
 - 🤖 Artificial Intelligence
 - 🎮 Indie Game Development
-- 🏗️ Building practical software solutions
+- 🏗️ Building practical & useful software solutions
+- 💻 PC Building
 
 My focus is on continuous improvement, adaptability, and becoming a well-rounded developer.
 
@@ -133,17 +134,6 @@ When I'm not coding, you can usually find me playing:
 🕹️ Retro games  
 
 Gaming helps inspire my interest in interactive technology and game development.
-
----
-
-## 🤖 Technology Interests
-
-- Artificial Intelligence
-- Software Engineering
-- Game Development
-- PC Building
-- Emerging Technologies
-- Creating useful applications
 
 ---
 

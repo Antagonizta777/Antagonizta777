@@ -208,7 +208,7 @@ My GitHub journey is growing. Future projects will include:
 - 📚 I'm always learning something new.
 - 💻 I enjoy exploring technology and building projects.
 - 🖥️ I love PC building and hardware.
-- 💙 Blue is my favorite color.
+- 🏍️ I like working on motorcyles and cars.
 
 ---
 

@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Cristina!
@@ -198,5 +197,3 @@ Interested in following my development journey?
 
 </div>
 ```
-
-

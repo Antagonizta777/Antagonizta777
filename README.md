@@ -42,16 +42,6 @@ _No other public projects or contributed repos were found on the account at this
 - Followers: **0**
 - Following: **0**
 
-Badges / stats:
-
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antagonizta777&show_icons=true&hide_title=true)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antagonizta777&hide_title=true&layout=compact)
-- ![Followers](https://img.shields.io/github/followers/Antagonizta777?label=Followers&style=flat-square)
-
-(Automated stats cards update as activity increases.)
-
-## Recent Activity
-
 ### Recent Activity 🔎
 
 _No additional recent public events were found. I'll be adding more commits, issues, and contributions soon._

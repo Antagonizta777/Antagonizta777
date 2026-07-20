@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Cristina!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Computer+Science+%40+SNHU;Future+Software+Engineer;AI+Enthusiast;Unity+Game+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Computer+Science+%40+SNHU;Future+Software+Engineer;AI+Enthusiast;Web+Development+Learner;Always+Learning+Something+New" />
 
 ### 👩🏾‍💻 💻 🤖 🎮 ⚙️ 🖥️ 🚀 💙
 
@@ -43,7 +43,7 @@ Interested in:
 - 💻 Software Engineering
 - 🌐 Web Development
 - 🤖 Artificial Intelligence Engineering
-- 🎮 Game Development
+- 🎮 Indie Game Development Learner
 
 ---
 
@@ -78,8 +78,6 @@ Interested in:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
@@ -127,7 +125,7 @@ My GitHub journey is growing. Future projects will include:
 🎓 School Projects  
 💻 Software Applications  
 🌐 Web Development Projects  
-🎮 Unity Game Projects  
+🎮 Indie Game Projects  
 🤖 AI Experiments  
 
 ---
@@ -137,7 +135,6 @@ My GitHub journey is growing. Future projects will include:
 - Build a strong software engineering portfolio
 - Create polished projects for recruiters to explore
 - Improve programming skills across multiple languages
-- Develop Unity-based applications
 - Continue learning AI technologies
 - Graduate with real-world development experience
 

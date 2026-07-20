@@ -188,7 +188,7 @@ My GitHub journey is growing. Future projects will include:
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Antagonizta777&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Antagonizta777&theme=tokyo-night&v=2" />
 
 ---
 

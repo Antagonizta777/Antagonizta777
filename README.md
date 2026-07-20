@@ -42,7 +42,7 @@ My goal is to grow as a developer and create meaningful technology solutions thr
 
 I am currently building my portfolio through academic projects, personal projects, and hands-on learning experiences. My GitHub will continue to grow as I refine my skills, document my work, and showcase projects that demonstrate my abilities.
 
-Many of my academic projects are currently private while I continue improving, testing, and preparing selected projects for public showcase.
+Many of my academic projects are currently private while I continue to improve, test, and prepare those selected projects for public showcase.
 
 Areas I am interested in:
 

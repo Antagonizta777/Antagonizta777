@@ -163,11 +163,13 @@ My GitHub journey is growing. Future projects will include:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Antagonizta777&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antagonizta777&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antagonizta777&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antagonizta777&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=Antagonizta777&theme=tokyonight" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Antagonizta777&theme=tokyonight&hide_border=true" />
 
 </div>
 

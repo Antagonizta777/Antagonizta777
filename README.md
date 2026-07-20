@@ -22,7 +22,7 @@ Many of my academic and personal projects are currently private while I continue
 
 I enjoy solving problems, learning new technologies, and improving my skills through hands-on development.
 
-> 💙 Programming means continuous learning and adaptability.
+> 💙 Programming to me means continuous learning and adaptability.
 
 ---
 
@@ -54,7 +54,7 @@ Areas I am interested in:
 
 My focus is on continuous improvement, adaptability, and becoming a well-rounded developer.
 
-> 💙 Programming means continuous learning and adaptability.
+> 💙 Programming to me means continuous learning and adaptability.
 
 ---
 ## 💻 Tech Stack

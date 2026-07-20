@@ -16,9 +16,11 @@
 
 🎓 I am a senior Computer Science student at **Southern New Hampshire University** with a concentration in **Project Management for STEM**.
 
-I am passionate about building software applications, exploring artificial intelligence, developing web solutions, and creating interactive experiences through game development.
+I am passionate about building software applications, exploring artificial intelligence, developing web solutions, and creating interactive experiences.
 
-I enjoy solving problems, learning new technologies, and improving my skills through hands-on projects.
+Many of my academic and personal projects are currently private while I continue refining them, documenting my work, and preparing selected projects for public showcase.
+
+I enjoy solving problems, learning new technologies, and improving my skills through hands-on development.
 
 > 💙 Programming means continuous learning and adaptability.
 
@@ -34,16 +36,25 @@ I enjoy solving problems, learning new technologies, and improving my skills thr
 
 ---
 
-## 🚀 Career Goals
+## 🚀 Career Goals & Portfolio Growth
 
-My goal is to grow as a developer and create meaningful technology solutions.
+My goal is to grow as a developer and create meaningful technology solutions through software engineering, web development, and artificial intelligence.
 
-Interested in:
+I am currently building my portfolio through academic projects, personal projects, and hands-on learning experiences. My GitHub will continue to grow as I refine my skills, document my work, and showcase projects that demonstrate my abilities.
+
+Many of my academic projects are currently private while I continue improving, testing, and preparing selected projects for public showcase.
+
+Areas I am interested in:
 
 - 💻 Software Engineering
 - 🌐 Web Development
-- 🤖 Artificial Intelligence Engineering
-- 🎮 Indie Game Development 
+- 🤖 Artificial Intelligence
+- 🎮 Indie Game Development
+- 🏗️ Building practical software solutions
+
+My focus is on continuous improvement, adaptability, and becoming a well-rounded developer.
+
+> 💙 Programming means continuous learning and adaptability.
 
 ---
 ## 💻 Tech Stack

@@ -112,42 +112,6 @@ My focus is on continuous improvement, adaptability, and becoming a well-rounded
 
 ---
 
-## 🌱 Currently Learning
-
-- ☕ Java programming
-- 🐍 Python development
-- ⚙️ C++ programming
-- 🗄️ SQL databases
-- 🤖 Artificial Intelligence concepts
-- 🏗️ Software engineering practices
-
----
-
-## 🎮 Gamer Mode
-
-When I'm not coding, you can usually find me playing:
-
-🎯 Call of Duty  
-⚔️ Gears of War  
-💥 Battlefield  
-🛡️ Halo  
-🕹️ Retro games  
-
-Gaming helps inspire my interest in interactive technology and game development.
-
----
-
-## 📂 Featured Projects
-
-My GitHub journey is growing. Future projects will include:
-
-🎓 School Projects  
-💻 Software Applications  
-🌐 Web Development Projects  
-🎮 Indie Game Projects   
-
----
-
 ## 🎯 2026 Goals
 
 - Build a strong software engineering portfolio

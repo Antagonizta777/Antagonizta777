@@ -26,16 +26,6 @@ I enjoy solving problems, learning new technologies, and improving my skills thr
 
 ---
 
-## 🎓 Education
-
-**Southern New Hampshire University**
-
-- 🎓 Bachelor of Science in Computer Science
-- 📌 Concentration: Project Management for STEM
-- 📚 Senior Student
-
----
-
 ## 🚀 Career Goals & Portfolio Growth
 
 My goal is to grow as a developer and create meaningful technology solutions through software engineering, web development, and artificial intelligence.

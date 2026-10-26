@@ -154,16 +154,6 @@ My focus is on continuous improvement, adaptability, and becoming a well-rounded
 
 ---
 
-## 📫 Connect With Me
-
-Interested in following my development journey?
-
-⭐ Check out my repositories  
-💬 Connect with me through GitHub  
-🚀 Watch my progress as I continue building software
-
----
-
 <div align="center">
 
 ### 💙 Thanks for visiting my profile!
